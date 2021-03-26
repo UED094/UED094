@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ugur Emre Dogan
-- 👀 I’m interested in Machine Learning, Computer Vision and IoT.
+- 👀 I’m interested in Machine Learning, Computer Vision, IoT, computer networks, embedded systems and multimedia communication.
 - 🌱 I’m currently doing my master's degree at SDSU.
 - 💞️ I’m looking to collaborate on any project which helps people to live in a better place.
 
