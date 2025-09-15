@@ -6,9 +6,9 @@
 - 🎓 I have a master's degree in Electrical and Computer Engineering from SDSU.
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ued094&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ued094&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ued094&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ued094&theme=dark&hide_border=true&include_all_commits=false&card_width=437)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ued094&theme=dark&hide_border=true&card_width=437)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ued094&theme=dark&hide_border=true&include_all_commits=false&layout=compact&card_width=437)
 
 <!---
 UED094/UED094 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
